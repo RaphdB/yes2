@@ -22,7 +22,7 @@
 
 ' git checkout <nom>
 
-# Content
+# CONTENT
 
 -index.html
 
